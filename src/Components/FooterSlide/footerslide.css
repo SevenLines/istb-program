@@ -1,6 +1,6 @@
 .section
 {
-    background-color: #859ADE;
+    background-color: #00ab9b;
 }
 
 .text--end
@@ -25,14 +25,13 @@
     align-items: center;
     text-align: center;
 
-    color: #859ADE;
+    color: #00ab9b;
 }
 
 
 .btn.btn--end
 {
-    width: 280px;
-    height: 40px;
+    width: 240px;
 
     flex-direction: column;
 
@@ -43,18 +42,20 @@
     font-style: normal;
     font-weight: bold;
     font-size: 14px;
-    line-height: 17px;
     display: flex;
     align-items: center;
     justify-content: center;
 
-    color: #859ADE;
+    color: #00ab9b;
+}
+
+.btn.btn--end:hover {
+    background-color: #b3fff7;
 }
 
 .btn.btn--end--two
 {
     width: 240px;
-    height: 30px;
 
     margin-top: 15px;
 
@@ -67,13 +68,17 @@
     font-style: normal;
     font-weight: bold;
     font-size: 12px;
-    line-height: 13px;
     display: flex;
     align-items: center;
     justify-content: center;
 
-    color: #859ADE;
+    color: #00ab9b;
 }
+
+.btn.btn--end--two:hover {
+    background-color: #b3fff7;
+}
+
 
 .text-mini
 {
@@ -88,7 +93,8 @@
 }
 
 .text-mini > a {
-    color: black;
+    color: white;
+    /*background-color: #012345;*/
     text-decoration: underline;
 }
 
@@ -127,3 +133,17 @@
   height:23px
 }
 
+
+@media (min-width: 768px) {
+    .text--end {
+        font-size: 2em;
+    }
+
+    .btn.btn--end {
+        font-size: 1em;
+    }
+
+    .btn.btn--end--two {
+        font-size: 1em;
+    }
+}

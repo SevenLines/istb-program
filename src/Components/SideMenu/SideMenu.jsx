@@ -49,7 +49,7 @@ function SideMenu({isTopSlide, isLastSlide}){
                     <span className="sidemenu-wrapper--link" onClick={() => onLinkClicked(3)}> 2 курс </span>
                     <span className="sidemenu-wrapper--link" onClick={() => onLinkClicked(4)}> 3 курс </span>
                     <span className="sidemenu-wrapper--link" onClick={() => onLinkClicked(5)}> 4 курс </span>
-                    <span className="sidemenu-wrapper--link" onClick={() => onLinkClicked(6)}> Контакты </span>
+                    <span className="sidemenu-wrapper--link" onClick={() => onLinkClicked(8)}> Контакты </span>
                 </animated.div>
 
                 <animated.div className="container container-common sidemenu-container position-absolute" style={menuContainerStyle}>

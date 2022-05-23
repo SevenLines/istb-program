@@ -31,8 +31,8 @@ function HomeGameSlide() {
 
     return (
         <>
-            <div className="home-wrapper h-100">
-                <img style={{ position: 'absolute', bottom: 0, width: '101%', height: '101%', objectFit: 'cover', zIndex: 0, backgroundColor: "#84CDCA" }} src={all} />
+            <div className="home-wrapper h-100" >
+
                 <div className="wrapper h-100">
                     <div className="container container-common">
                         <header className="welcome--header"  onClick={() => onLogoClick()}>
@@ -45,7 +45,7 @@ function HomeGameSlide() {
                                 <span className="title">
                                     <span>Информаци<span className="d-md-none">-<br/>-</span>онные<br /></span>
                                     <span>системы и технологии<br /></span>
-                                    <span > в админи<span className="d-md-none">-<br/>-</span>стративном<br /></span>
+                                    <span> в админи<span className="d-md-none">-<br/>-</span>стративном<br /></span>
                                     <span>управлении</span>
                                     <small><br/>направление 09.03.02</small>
                                 </span>

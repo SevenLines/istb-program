@@ -1,5 +1,4 @@
-.hand--icon--wrapper
-{
+.hand--icon--wrapper {
     text-align: center;
     width: 100%;
     position: absolute;
@@ -7,13 +6,13 @@
     margin-bottom: 5px;
 }
 
-.hand--icon
-{
+
+.hand--icon {
     width: 50px;
     height: 50px;
 }
 
-.welcome--menu__test{
+.welcome--menu__test {
     height: 100%;
     width: 100%;
     position: absolute;
@@ -26,24 +25,36 @@
     color: white;
 }
 
+.home-wrapper {
+    background: linear-gradient(135deg, #012345, #00ab9b);
+}
+
 .title {
     font-family: Montserrat;
     font-style: normal;
-    font-weight:900;
-    font-size: 36px;
-    line-height: 40px;
+    font-weight: 900;
+    font-size: 2.5em;
+    line-height: 45px;
     letter-spacing: 1px;
 
     color: white;
- }
+    /*text-shadow: 0 0 10px white;*/
+}
 
 .title small {
-    font-weight:700;
+    font-weight: 700;
     font-size: 17px;
     line-height: 12px;
 }
 
-a.welcome--logo--href
-{
+a.welcome--logo--href {
     text-decoration: none;
+}
+
+
+@media (min-width: 756px) {
+    .title {
+        font-size: 4em;
+        line-height: 60px;
+    }
 }

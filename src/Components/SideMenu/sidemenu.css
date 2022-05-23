@@ -17,12 +17,14 @@
     width: 100vw;
     height: 100vh;
     z-index: 1000;
-    background-color: #859ade;
+    background-color: #012345;
     display: flex;
     flex-direction: column;
     align-items: center;
     right: -100%;
     top: 0;
+        justify-content: center;
+
 }
 
 .sidemenu-wrapper--link {
@@ -32,7 +34,6 @@
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
-    line-height: 29px;
     display: flex;
     align-items: center;
     letter-spacing: 0.15em;
@@ -41,10 +42,6 @@
 
     color: #FFFFFF;
     cursor: pointer;
-}
-
-.sidemenu-wrapper--link:first-child {
-    padding-top: 118px;
 }
 
 .welcome--header{
@@ -68,13 +65,19 @@
     font-weight: bold;
     font-size: 18px;
     line-height: 22px;
-    font-family: Montserrat;
     letter-spacing: 0.15em;
 
     color: #FFFFFF;
 }
 
-.welcome--info
-{
-
+@media (min-width: 768px) {
+    .sidemenu-wrapper {
+        justify-content: center;
+    }
+    .sidemenu-wrapper--link  {
+        font-size: 3em;
+    }
+    .sidemenu-wrapper--link:first-child {
+        padding-top: 0;
+    }
 }

@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const fetchProgram = (programName) => dispatch => {
-    axios.get('/info.json')
+    axios.get('/info2022.json')
         .then(({ data }) => {
             dispatch(setProgram(data.data));
         }).catch((e)=>console.log(e));

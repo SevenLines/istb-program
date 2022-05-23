@@ -1,0 +1,523 @@
+{
+  "data": [
+    {
+      "programFullName": "Информационные системы и технологии в административном управлении"
+    },
+    {
+      "programShortName": "istb"
+    },
+    {
+      "instituteShortName": "ИТиАД"
+    },
+    {
+      "schedule": [
+        {
+          "sem1": 1,
+          "sem2": 2,
+          "courseNumber": 1,
+          "languages": [
+            "Python",
+            "C",
+            "C++",
+            "git"
+          ],
+          "program": [
+            {
+              "semester": 1,
+              "items": [
+                {
+                  "title": "Иностранный язык",
+                  "category": "Иностранный язык",
+                  "categoryId": 6,
+                  "count": 3
+                },
+                {
+                  "title": "Физическая культура и спорт",
+                  "category": "Гуманитарные науки",
+                  "categoryId": 1,
+                  "count": 2
+                },
+                {
+                  "title": "Основы деловой коммуникации",
+                  "category": "Гуманитарные науки",
+                  "categoryId": 1,
+                  "count": 2
+                },
+                {
+                  "title": "Математика",
+                  "category": "Математика",
+                  "categoryId": 3,
+                  "count": 4
+                },
+                {
+                  "title": "Физика",
+                  "category": "Общая подготовка",
+                  "categoryId": 2,
+                  "count": 3
+                },
+                {
+                  "title": "Информатика",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 5
+                },
+                {
+                  "title": "Введение в веб-технологии",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 4
+                },
+                {
+                  "title": "Программирование на языке высокого уровня",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 5
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "items": [
+                {
+                  "title": "Иностранный язык",
+                  "category": "Иностранный язык",
+                  "categoryId": 6,
+                  "count": 3
+                },
+                {
+                  "title": "Основы инклюзивного взаимодействия",
+                  "category": "Гуманитарные науки",
+                  "categoryId": 1,
+                  "count": 1
+                },
+                {
+                  "title": "Инженерная графика",
+                  "category": "Общая подготовка",
+                  "categoryId": 2,
+                  "count": 3
+                },
+                {
+                  "title": "Математика",
+                  "category": "Математика",
+                  "categoryId": 3,
+                  "count": 4
+                },
+                {
+                  "title": "Теория вероятностей и математическая статистика",
+                  "category": "Математика",
+                  "categoryId": 3,
+                  "count": 4
+                },
+                {
+                  "title": "Физика",
+                  "category": "Общая подготовка",
+                  "categoryId": 2,
+                  "count": 5
+                },
+                {
+                  "title": "Програм. на языке высокого уровня",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 6
+                },
+                {
+                  "title": "Архитектура ЭВМ и систем",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Учебная практика",
+                  "category": "Практика",
+                  "categoryId": 5,
+                  "count": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sem1": 3,
+          "sem2": 4,
+          "courseNumber": 2,
+          "languages": [
+            "C#",
+            "Java",
+            "SQL",
+            "R",
+            "JavaScript",
+            "linux"
+          ],
+          "program": [
+            {
+              "semester": 3,
+              "items": [
+                {
+                  "title": "Иностранный язык",
+                  "category": "Иностранный язык",
+                  "categoryId": 6,
+                  "count": 2
+                },
+                {
+                  "title": "Исследование операций",
+                  "category": "Математика",
+                  "categoryId": 3,
+                  "count": 4
+                },
+                {
+                  "title": "Мат.логика и теория алгоритмов",
+                  "category": "Математика",
+                  "categoryId": 3,
+                  "count": 3
+                },
+                {
+                  "title": "Дискретная математика",
+                  "category": "Математика",
+                  "categoryId": 3,
+                  "count": 3
+                },
+                {
+                  "title": "Объектно-ориентированное программирование",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 2
+                },
+                {
+                  "title": "Операционные системы",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Базы данных",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 6
+                },
+                {
+                  "title": "Методы анализа данных",
+                  "category": "Искусственный интелект",
+                  "categoryId": 7,
+                  "count": 4
+                },
+                {
+                  "title": "Критическое и системное мышление",
+                  "category": "Гуманитарные науки",
+                  "categoryId": 1,
+                  "count": 1
+                }
+              ]
+            },
+            {
+              "semester": 4,
+              "items": [
+                {
+                  "title": "Иностранный язык",
+                  "category": "Иностранный язык",
+                  "categoryId": 6,
+                  "count": 2
+                },
+                {
+                  "title": "Анализ бизнес-процессов",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Моделирование процессов и систем",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 5
+                },
+                {
+                  "title": "Основы BigData",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Объектно-ориентированное программирование",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 4
+                },
+                {
+                  "title": "Технологии программирования",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 4
+                },
+                {
+                  "title": "Web-программирование",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Основы проектной деятельности",
+                  "category": "Общая подготовка",
+                  "categoryId": 2,
+                  "count": 2
+                },
+                {
+                  "title": "Производственная практика: технологическая (проектно-технологическая) практика",
+                  "category": "Практика",
+                  "categoryId": 5,
+                  "count": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sem1": 5,
+          "sem2": 6,
+          "courseNumber": 3,
+          "languages": [
+            "PHP",
+            "Kotlin",
+            "Android"
+          ],
+          "program": [
+            {
+              "semester": 5,
+              "items": [
+                {
+                  "title": "Иностранный язык",
+                  "category": "Иностранный язык",
+                  "categoryId": 6,
+                  "count": 3
+                },
+                {
+                  "title": "Правоведение",
+                  "category": "Гуманитарные науки",
+                  "categoryId": 1,
+                  "count": 2
+                },
+                {
+                  "title": "Основы информационной безопасности",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Нейросетевые технологии",
+                  "category": "Искусственный интелект",
+                  "categoryId": 7,
+                  "count": 4
+                },
+                {
+                  "title": "Архитектура информационных систем",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Инфокоммуникационные системы и сети",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 4
+                },
+                {
+                  "title": "Web-программирование",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 4
+                },
+                {
+                  "title": "Основы мобильной разработки",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Управление проектами",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Проектная деятельность",
+                  "category": "Практика",
+                  "categoryId": 5,
+                  "count": 2
+                }
+              ]
+            },
+            {
+              "semester": 6,
+              "items": [
+                {
+                  "title": "Философия",
+                  "category": "Гуманитарные науки",
+                  "categoryId": 1,
+                  "count": 3
+                },
+                {
+                  "title": "Компьютерная графика",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Технологии разработки программных комплексов",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 6
+                },
+                {
+                  "title": "Технология блокчейн",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Технологическое предпринимательство",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Основы мобильной разработки",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 4
+                },
+                {
+                  "title": "Проектная деятельность",
+                  "category": "Практика",
+                  "categoryId": 5,
+                  "count": 2
+                },
+                {
+                  "title": "Производственная практика: научно-исследовательская работа",
+                  "category": "Практика",
+                  "categoryId": 5,
+                  "count": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sem1": 7,
+          "sem2": 8,
+          "courseNumber": 4,
+          "languages": [
+            "1C",
+            "UML",
+            "*"
+          ],
+          "program": [
+            {
+              "semester": 7,
+              "items": [
+                {
+                  "title": "История (история России, всеобщая история)",
+                  "category": "Гуманитарные науки",
+                  "categoryId": 1,
+                  "count": 5
+                },
+                {
+                  "title": "Экономика",
+                  "category": "Гуманитарные науки",
+                  "categoryId": 1,
+                  "count": 2
+                },
+                {
+                  "title": "Интеллектуальные системы и технологии",
+                  "category": "Искусственный интелект",
+                  "categoryId": 7,
+                  "count": 6
+                },
+                {
+                  "title": "Основы систем поддержки принятия решений",
+                  "category": "Искусственный интелект",
+                  "categoryId": 7,
+                  "count": 5
+                },
+                {
+                  "title": "Проектирование информационных систем",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 4
+                },
+                {
+                  "title": "Введение в AR/VR технологии",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Основы DevOps",
+                  "category": "АйТи",
+                  "categoryId": 2,
+                  "count": 2
+                },
+                {
+                  "title": "Проектная деятельность",
+                  "category": "Практика",
+                  "categoryId": 5,
+                  "count": 2
+                }
+              ]
+            },
+            {
+              "semester": 8,
+              "items": [
+                {
+                  "title": "Подготовка к сдаче квалификационного экзамена по английскому языку",
+                  "category": "Иностранный язык",
+                  "categoryId": 1,
+                  "count": 1
+                },
+                {
+                  "title": "БЖД",
+                  "category": "Гуманитарные науки",
+                  "categoryId": 1,
+                  "count": 3
+                },
+                {
+                  "title": "Надежность ИС",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 3
+                },
+                {
+                  "title": "Проектирование ИС",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 4
+                },
+                {
+                  "title": "Корпоративные информационные системы",
+                  "category": "АйТи",
+                  "categoryId": 4,
+                  "count": 4
+                },
+                {
+                  "title": "Проектная деятельность",
+                  "category": "Практика",
+                  "categoryId": 5,
+                  "count": 2
+                },
+                {
+                  "title": "Преддипломная практика",
+                  "category": "Практика",
+                  "categoryId": 5,
+                  "count": 6
+                },
+                {
+                  "title": "Выпускная квалификационная работа",
+                  "category": "Практика",
+                  "categoryId": 5,
+                  "count": 9
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
